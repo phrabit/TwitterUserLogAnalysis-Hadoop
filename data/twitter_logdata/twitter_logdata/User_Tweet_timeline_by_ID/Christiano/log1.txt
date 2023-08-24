@@ -1,0 +1,178 @@
+{
+    "data": [
+        {
+            "lang": "qme",
+            "conversation_id": "1616567547872137221",
+            "in_reply_to_user_id": "2409783798",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "BruceBarbosa88",
+                        "id": "2409783798"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "edit_controls": {
+                "edits_remaining": 5,
+                "is_edit_eligible": false,
+                "editable_until": "2023-01-21T15:28:34.000Z"
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1616567547872137221"
+                }
+            ],
+            "edit_history_tweet_ids": [
+                "1616812502091988992"
+            ],
+            "id": "1616812502091988992",
+            "author_id": "4327",
+            "text": "@BruceBarbosa88 🙄",
+            "created_at": "2023-01-21T14:58:34.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0,
+                "impression_count": 37
+            }
+        },
+        {
+            "lang": "qht",
+            "conversation_id": "1445891170266140674",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 22,
+                        "tag": "PREVENTSENIOREUCONFIO"
+                    }
+                ]
+            },
+            "edit_controls": {
+                "edits_remaining": 5,
+                "is_edit_eligible": true,
+                "editable_until": "2021-10-06T23:48:13.000Z"
+            },
+            "edit_history_tweet_ids": [
+                "1445891170266140674"
+            ],
+            "id": "1445891170266140674",
+            "author_id": "4327",
+            "text": "#PREVENTSENIOREUCONFIO",
+            "created_at": "2021-10-06T23:18:13.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "impression_count": 0
+            }
+        },
+        {
+            "lang": "pt",
+            "conversation_id": "29645316214",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "intelbrasil",
+                        "id": "50415313"
+                    },
+                    {
+                        "start": 20,
+                        "end": 33,
+                        "username": "olhardigital",
+                        "id": "8315402"
+                    },
+                    {
+                        "start": 92,
+                        "end": 105,
+                        "username": "olhardigital",
+                        "id": "8315402"
+                    },
+                    {
+                        "start": 108,
+                        "end": 120,
+                        "username": "intelbrasil",
+                        "id": "50415313"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 66,
+                        "end": 69,
+                        "probability": 0.9173,
+                        "type": "Organization",
+                        "normalized_text": "Sony"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "edit_controls": {
+                "edits_remaining": 5,
+                "is_edit_eligible": true,
+                "editable_until": "2010-11-04T06:48:52.000Z"
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "29594792569"
+                }
+            ],
+            "edit_history_tweet_ids": [
+                "29645316214"
+            ],
+            "id": "29645316214",
+            "author_id": "4327",
+            "text": "RT @intelbrasil: RT @olhardigital Promoção: quer ganhar um laptop Sony Vaio? Dê um RT, siga @olhardigital e @intelbrasil para concorrer. ...",
+            "created_at": "2010-11-04T06:18:52.000Z",
+            "public_metrics": {
+                "retweet_count": 2974,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "impression_count": 0
+            }
+        },
+        {
+            "lang": "en",
+            "conversation_id": "17918",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "edit_controls": {
+                "edits_remaining": 5,
+                "is_edit_eligible": true,
+                "editable_until": "2006-08-14T18:32:18.000Z"
+            },
+            "edit_history_tweet_ids": [
+                "17918"
+            ],
+            "id": "17918",
+            "author_id": "4327",
+            "text": "I´m looking for friends.",
+            "created_at": "2006-08-14T18:02:18.000Z",
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 31,
+                "like_count": 26,
+                "quote_count": 3,
+                "impression_count": 0
+            }
+        }
+    ],
+    "meta": {
+        "result_count": 4,
+        "newest_id": "1616812502091988992",
+        "oldest_id": "17918"
+    }
+}
