@@ -4,9 +4,12 @@
 ## Introduction
 
 - Team5
-> Data Collecting : Emilie Greeker 
+> Data Collecting : Emilie Greeker
+> 
 > Data Engineering : Jooseung Lee
+> 
 > Data Analysis : Suho Lee ✌️
+> 
 > Web : Jaeyou Lee
 
 
